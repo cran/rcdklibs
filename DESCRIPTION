@@ -1,6 +1,6 @@
 Package: rcdklibs
-Version: 1.2.2
-Date: 2009-10-28
+Version: 1.2.3
+Date: 2009-10-30
 Title: rcdklib - CDK libraries packaged for R
 Author: Rajarshi Guha <rajarshi.guha@gmail.com>
 Maintainer: Rajarshi Guha <rajarshi.guha@gmail.com>
@@ -13,6 +13,6 @@ Description: This package provides the CDK libraries for use in the R
         Note that it is possible to directly interact with the CDK
         using rJava. However rcdk exposes functionality in a more
         idiomatic way
-Packaged: Wed Oct 28 20:06:28 2009; rguha
+Packaged: 2009-10-31 03:57:05 UTC; rguha
 Repository: CRAN
-Date/Publication: 2009-10-29 06:52:02
+Date/Publication: 2009-11-01 16:17:34
