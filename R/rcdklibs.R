@@ -9,8 +9,6 @@ require(rJava, quietly=TRUE)
     }
 
     jar.cdk <- paste(lib,pkg,"cont","cdk.jar",sep=.Platform$file.sep)
-    ##jar.jmol <- paste(lib,pkg,"cont","Jmol.jar",sep=.Platform$file.sep)
-    ##jar.jcp <- paste(lib,pkg,"cont","cdk-jchempaint.jar",sep=.Platform$file.sep)        
     .jinit(classpath=c(jar.cdk))
 }
     
